@@ -32,7 +32,7 @@ The model is created, trained, and then tested to return an RMSE value that tell
 
 I began by testing it on a fairly stable yet upward-trending stock in Apple (AAPL). The returned RMSE came out to 1.2906, which was much more accurate than I was expecting:
 
-
+![AAPL Result](https://github.com/yashp121/stock-market-predictor/blob/master/img/NN%20AAPL%20Result.png)
 
 I then tested a more volatile stock in Telsa (TSLA), but to my surprise the model maintained a decent accuracy level:
 
