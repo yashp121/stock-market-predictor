@@ -35,11 +35,11 @@ I began by testing it on a fairly stable yet upward-trending stock in Apple (AAP
 ![AAPL Result](https://github.com/yashp121/stock-market-predictor/blob/master/img/NN%20AAPL%20Result.png)
 
 I then tested a more volatile stock in Telsa (TSLA), but to my surprise the model maintained a decent accuracy level:
-![TSLA Result] (https://github.com/yashp121/stock-market-predictor/blob/master/img/NN%20TSLA%20Result.png)
+![TSLA Result](https://github.com/yashp121/stock-market-predictor/blob/master/img/NN%20TSLA%20Result.png)
 
 The last step was to show the graph of the stock with its predictions:
-![AAPL Graph] (https://github.com/yashp121/stock-market-predictor/blob/master/img/NN%20AAPL%20Graph.png)
-![TSLA Graph] (https://github.com/yashp121/stock-market-predictor/blob/master/img/NN%20TSLA%20Graph.png)
+![AAPL Graph](https://github.com/yashp121/stock-market-predictor/blob/master/img/NN%20AAPL%20Graph.png)
+![TSLA Graph](https://github.com/yashp121/stock-market-predictor/blob/master/img/NN%20TSLA%20Graph.png)
 
 
 Overall, the accuracy of the models was better than I expected and I am pleasantly surprised with how much I learned from this project.
